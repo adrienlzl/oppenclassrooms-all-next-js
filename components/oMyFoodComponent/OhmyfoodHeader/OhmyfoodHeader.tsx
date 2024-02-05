@@ -16,7 +16,7 @@ export default  function OhmyfoodHeader() {
             </div>
             <div className={"flex text-center w-full h-[50px] font-normal justify-center items-center"}>
                 <div className={"text-lg"}>
-                    {/*<FontAwesomeIcon icon={faLocationDot} className="text-blue-500 text-lg" />*/}
+                    <FontAwesomeIcon icon={faLocationDot} className="text-blue-500 text-lg" />
                 </div>
                 <p className={" text-lg  "}>
                     Paris, Belleville
